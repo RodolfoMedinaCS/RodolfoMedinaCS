@@ -2,7 +2,7 @@ Hey there! :)
 
 I'm **Rodolfo**, a CS student at **Cal State Northridge** graduating Spring 2027.
 
-I build full-stack apps and I'm getting deep into AI engineering. If there's a problem I find interesting, I'll build something to figure it out.
+I build full-stack apps and I'm getting deep into AI engineering.
 
 Right now I'm working on two things — a job application tracker built with Spring Boot, PostgreSQL, and React, and an independent research project studying how different chunking strategies affect retrieval accuracy in RAG systems. The research side is where I'm spending a lot of my time lately.
 
