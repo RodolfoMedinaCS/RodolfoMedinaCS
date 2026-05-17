@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there! :)
 
-<!--
-**RodolfoMedinaCS/RodolfoMedinaCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rodolfo**, a CS student at **Cal State Northridge** graduating Spring 2027.
 
-Here are some ideas to get you started:
+I build full-stack apps and I'm getting deep into AI engineering. If there's a problem I find interesting, I'll build something to figure it out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm working on two things — a job application tracker built with Spring Boot, PostgreSQL, and React, and an independent research project studying how different chunking strategies affect retrieval accuracy in RAG systems. The research side is where I'm spending a lot of my time lately.
+
+My main stack is **Java, Spring Boot, React, PostgreSQL, and Python**. I've been getting into LangChain and the OpenAI API for the AI work.
+
+I'm open to SWE internship opportunities for Summer/Fall 2026.
+
+**A few things about me:**
+
+- Music is my other thing, I write & produce
+- I'm really into outer space & astronomy, stargazing is one of my favorite things to do
+- I have a cat named Bella
+- I love performing
+
+Feel free to reach out, always down to connect with people building cool stuff.
