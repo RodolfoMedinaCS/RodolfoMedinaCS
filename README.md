@@ -17,4 +17,4 @@ A few things about me:
 - I have a cat named Bella
 - I love performing
 
-Feel free to reach out, always down to connect with people building cool stuff. :p
+Feel free to reach out, always down to connect with people building cool stuff. :) 
